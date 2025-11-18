@@ -1,5 +1,6 @@
 langchain
 langchain-community
+langchain_groq
 numpy
 python-dotenv
 tqdm

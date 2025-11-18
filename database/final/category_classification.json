@@ -1,0 +1,18 @@
+[
+  {
+    "category_name": "policy_types",
+    "description": "Covers different life insurance policy types like term life, whole life, endowment, and child plans."
+  },
+  {
+    "category_name": "benefits",
+    "description": "Details about the advantages and benefits offered by life insurance policies."
+  },
+  {
+    "category_name": "eligibility",
+    "description": "Eligibility criteria including age, health, income, residency, and policy-specific requirements."
+  },
+  {
+    "category_name": "claims",
+    "description": "Guidelines on how to file claims, required documents, settlement processes, and common issues."
+  }
+]
