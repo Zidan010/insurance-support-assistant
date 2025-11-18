@@ -1,0 +1,282 @@
+[
+  {
+    "id": 1,
+    "title": "Term Life Insurance Overview",
+    "content": "Term life insurance provides coverage for a fixed period (for example, 10, 20, or 30 years) and pays a lump-sum death benefit if the insured dies within the term; it generally has lower premiums and no cash value.",
+    "source_name": "Investopedia",
+    "source_url": "https://www.investopedia.com/terms/t/termlife.asp"
+  },
+  {
+    "id": 2,
+    "title": "Whole Life Insurance Basics",
+    "content": "Whole life insurance offers lifelong coverage and includes a savings-like cash value component that grows over time; premiums are higher but part of the policy builds value you can borrow against.",
+    "source_name": "NerdWallet",
+    "source_url": "https://www.nerdwallet.com/article/insurance/whole-life-insurance"
+  },
+  {
+    "id": 3,
+    "title": "Endowment Plan Explained",
+    "content": "Endowment plans combine life cover with a savings objective, paying a maturity benefit if the policyholder survives the term or a death benefit if they die during the term.",
+    "source_name": "PolicyBazaar",
+    "source_url": "https://www.policybazaar.com"
+  },
+  {
+    "id": 4,
+    "title": "Unit-Linked Insurance Plans",
+    "content": "Unit-linked insurance plans (ULIPs) split the premium between insurance cover and market-linked investments, so part of the value fluctuates with fund performance and carries investment risk.",
+    "source_name": "ET Money",
+    "source_url": "https://www.etmoney.com"
+  },
+  {
+    "id": 5,
+    "title": "Group Life Insurance",
+    "content": "Group life insurance provides coverage for members of a group—often employees—under a single master policy, typically arranged and paid for by an employer or organization.",
+    "source_name": "Insurance Information Institute",
+    "source_url": "https://www.iii.org"
+  },
+  {
+    "id": 6,
+    "title": "Joint Life Insurance",
+    "content": "Joint life insurance covers two people on one policy, commonly spouses; the plan may pay on the first death, or in some designs, pay only after both insured persons have died.",
+    "source_name": "Forbes Advisor",
+    "source_url": "https://www.forbes.com/advisor/life-insurance"
+  },
+  {
+    "id": 7,
+    "title": "Child Life Insurance Plans",
+    "content": "Child plans are designed to build savings for a child’s future needs such as education while often providing life cover for the parent or policyholder depending on plan design.",
+    "source_name": "BankBazaar",
+    "source_url": "https://www.bankbazaar.com"
+  },
+  {
+    "id": 8,
+    "title": "Money-Back Policies",
+    "content": "Money-back life policies return a portion of the sum assured at periodic intervals during the policy term, providing liquidity while the policy remains in force.",
+    "source_name": "PolicyAdvisor",
+    "source_url": "https://www.policyadvisor.com"
+  },
+  {
+    "id": 9,
+    "title": "Convertible Term Insurance",
+    "content": "Convertible term insurance lets the policyholder convert a term policy to a permanent policy (such as whole life) without further medical underwriting, subject to conversion rules and deadlines.",
+    "source_name": "Investopedia",
+    "source_url": "https://www.investopedia.com"
+  },
+  {
+    "id": 10,
+    "title": "Return of Premium Term Policy",
+    "content": "Return-of-premium term policies refund the premiums paid if the insured survives the policy term, usually at a higher premium compared with standard term insurance.",
+    "source_name": "Forbes Advisor",
+    "source_url": "https://www.forbes.com"
+  },
+  {
+    "id": 11,
+    "title": "Credit Life Insurance",
+    "content": "Credit life insurance is tied to a loan and pays off the outstanding loan balance if the borrower dies before the loan is repaid, protecting lenders and sometimes borrowers’ families from debt burden.",
+    "source_name": "Investopedia",
+    "source_url": "https://www.investopedia.com"
+  },
+  {
+    "id": 12,
+    "title": "Final Expense Insurance",
+    "content": "Final expense insurance is a small whole-life policy intended to cover funeral and other end-of-life expenses, with relatively low face amounts and simplified underwriting.",
+    "source_name": "NerdWallet",
+    "source_url": "https://www.nerdwallet.com"
+  },
+  {
+    "id": 13,
+    "title": "Simplified Issue Life Insurance",
+    "content": "Simplified issue life insurance requires no medical exam and issues coverage based on a brief health questionnaire, enabling faster approval but with limited coverage amounts.",
+    "source_name": "PolicyAdvisor",
+    "source_url": "https://www.policyadvisor.com"
+  },
+  {
+    "id": 14,
+    "title": "Guaranteed Issue Life Insurance",
+    "content": "Guaranteed issue life insurance provides coverage without health questions or exams; acceptance is guaranteed but premiums are higher and coverage amounts are typically lower.",
+    "source_name": "Forbes Advisor",
+    "source_url": "https://www.forbes.com"
+  },
+  {
+    "id": 15,
+    "title": "Survivorship (Second-to-Die) Policies",
+    "content": "Survivorship life insurance covers two lives and pays the death benefit only after both insured individuals have died; often used for estate planning.",
+    "source_name": "Investopedia",
+    "source_url": "https://www.investopedia.com"
+  },
+  {
+    "id": 16,
+    "title": "Indexed Universal Life (IUL)",
+    "content": "Indexed universal life insurance credits interest to the cash value based on a stock market index’s performance while offering a death benefit and flexible premiums.",
+    "source_name": "Forbes Advisor",
+    "source_url": "https://www.forbes.com"
+  },
+  {
+    "id": 17,
+    "title": "Variable Universal Life",
+    "content": "Variable universal life policies allow the policyholder to allocate cash value among investment sub-accounts, exposing the cash value to market risk and potential growth.",
+    "source_name": "Investopedia",
+    "source_url": "https://www.investopedia.com"
+  },
+  {
+    "id": 18,
+    "title": "Annuity-Like Life Plans",
+    "content": "Some life contracts can include annuity-style settlement options that pay beneficiaries regular income over time instead of a single lump-sum payment.",
+    "source_name": "Bankrate",
+    "source_url": "https://www.bankrate.com"
+  },
+  {
+    "id": 19,
+    "title": "Family Income Benefit",
+    "content": "Family income benefit policies pay a regular income to beneficiaries for a defined period after the insured’s death, providing ongoing support instead of a lump sum.",
+    "source_name": "PolicyAdvisor",
+    "source_url": "https://www.policyadvisor.com"
+  },
+  {
+    "id": 20,
+    "title": "Mortgage Protection Insurance",
+    "content": "Mortgage protection insurance is a term-type product designed to clear the mortgage balance if the borrower dies during the mortgage term.",
+    "source_name": "Bankrate",
+    "source_url": "https://www.bankrate.com"
+  },
+  {
+    "id": 21,
+    "title": "Decreasing Term Insurance",
+    "content": "Decreasing term insurance provides a declining death benefit over time, often used to match the reducing balance of a mortgage or loan.",
+    "source_name": "Investopedia",
+    "source_url": "https://www.investopedia.com"
+  },
+  {
+    "id": 22,
+    "title": "Level Term Insurance",
+    "content": "Level term insurance keeps the death benefit constant throughout the policy term, providing predictable coverage for dependents.",
+    "source_name": "NerdWallet",
+    "source_url": "https://www.nerdwallet.com"
+  },
+  {
+    "id": 23,
+    "title": "Single-Premium Whole Life",
+    "content": "Single-premium whole life is paid with a one-time lump-sum premium, immediately generating cash value and life cover without future premium payments.",
+    "source_name": "Forbes Advisor",
+    "source_url": "https://www.forbes.com"
+  },
+  {
+    "id": 24,
+    "title": "Limited-Payment Whole Life",
+    "content": "Limited-payment whole life requires premiums only for a limited number of years (for example, 10 or 20), after which the policy remains in force for life.",
+    "source_name": "Investopedia",
+    "source_url": "https://www.investopedia.com"
+  },
+  {
+    "id": 25,
+    "title": "Permanent Life Insurance Overview",
+    "content": "Permanent life insurance refers to policies that provide lifetime coverage and usually include a cash value component that accumulates over time.",
+    "source_name": "NerdWallet",
+    "source_url": "https://www.nerdwallet.com"
+  },
+  {
+    "id": 26,
+    "title": "Indexed Life Policy Features",
+    "content": "Indexed life policies credit interest to cash value based on index performance with caps and floors; they combine downside protection with index-linked upside.",
+    "source_name": "Investopedia",
+    "source_url": "https://www.investopedia.com"
+  },
+  {
+    "id": 27,
+    "title": "Participating (With-Profits) Policies",
+    "content": "Participating or with-profits policies may declare bonuses based on insurer performance, increasing the benefits for policyholders in addition to guaranteed amounts.",
+    "source_name": "LIC",
+    "source_url": "https://www.licindia.in"
+  },
+  {
+    "id": 28,
+    "title": "Non-Participating Policies",
+    "content": "Non-participating policies do not share insurer profits and typically offer guaranteed benefits without bonus declarations.",
+    "source_name": "Insurance Information Institute",
+    "source_url": "https://www.iii.org"
+  },
+  {
+    "id": 29,
+    "title": "Low-Value Funeral Cover",
+    "content": "Low-value funeral cover provides a small fixed benefit meant to cover funeral expenses and often has simplified underwriting and quick issue.",
+    "source_name": "PolicyBazaar",
+    "source_url": "https://www.policybazaar.com"
+  },
+  {
+    "id": 30,
+    "title": "Accidental Death Benefit as Standalone",
+    "content": "Stand-alone accidental death policies pay an additional benefit if death results directly from an accident; they do not usually cover illness-related deaths.",
+    "source_name": "Max Life",
+    "source_url": "https://www.maxlifeinsurance.com"
+  },
+  {
+    "id": 31,
+    "title": "Accelerated Death Benefit Feature",
+    "content": "Some life policies include an accelerated death benefit that allows early payment of part of the death benefit if the insured is diagnosed with a terminal illness.",
+    "source_name": "ICICI Prudential",
+    "source_url": "https://www.iciciprulife.com"
+  },
+  {
+    "id": 32,
+    "title": "Return of Mortality Premium Option",
+    "content": "Certain term products offer a return of mortality premium where part of the premium is returned if the insured survives the term, often at higher cost.",
+    "source_name": "BankBazaar",
+    "source_url": "https://www.bankbazaar.com"
+  },
+  {
+    "id": 33,
+    "title": "Indexed-Linked Savings Plan",
+    "content": "Indexed-linked savings plans tie a portion of returns to market indices while offering life cover, blending savings and protection features.",
+    "source_name": "ET Money",
+    "source_url": "https://www.etmoney.com"
+  },
+  {
+    "id": 34,
+    "title": "Graduated Benefit Policies",
+    "content": "Graduated benefit plans increase the sum assured or benefits over time to keep pace with inflation or growing family needs.",
+    "source_name": "PolicyAdvisor",
+    "source_url": "https://www.policyadvisor.com"
+  },
+  {
+    "id": 35,
+    "title": "Income Replacement Policies",
+    "content": "Income replacement policies are designed specifically to replace lost income for beneficiaries, often structured as regular payments rather than a lump sum.",
+    "source_name": "Forbes Advisor",
+    "source_url": "https://www.forbes.com"
+  },
+  {
+    "id": 36,
+    "title": "Key Person Life Insurance",
+    "content": "Key person life insurance protects a business against the financial loss resulting from the death of an essential employee by paying a benefit to the company.",
+    "source_name": "Investopedia",
+    "source_url": "https://www.investopedia.com"
+  },
+  {
+    "id": 37,
+    "title": "Buy-Sell Agreement Life Policies",
+    "content": "Buy-sell life policies fund business succession agreements by providing liquidity to buy a deceased partner’s share in a business.",
+    "source_name": "Bankrate",
+    "source_url": "https://www.bankrate.com"
+  },
+  {
+    "id": 38,
+    "title": "Short-Term Temporary Cover",
+    "content": "Short-term temporary life cover offers brief protection for a specific need (for example, travel or a short loan) and is designed to be low-cost and quick to issue.",
+    "source_name": "PolicyBazaar",
+    "source_url": "https://www.policybazaar.com"
+  },
+  {
+    "id": 39,
+    "title": "Level Premium vs. Stepped Premium",
+    "content": "Level premium policies charge the same premium every year, while stepped premium policies increase premiums as the insured ages.",
+    "source_name": "NerdWallet",
+    "source_url": "https://www.nerdwallet.com"
+  },
+  {
+    "id": 40,
+    "title": "Flexible Premium Policies",
+    "content": "Flexible premium policies allow policyholders to vary the amount and timing of premium payments within policy-specified limits, offering more cash-flow flexibility.",
+    "source_name": "Investopedia",
+    "source_url": "https://www.investopedia.com"
+  }
+]

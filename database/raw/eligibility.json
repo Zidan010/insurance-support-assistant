@@ -1,0 +1,282 @@
+[
+  {
+    "id": 81,
+    "title": "Minimum Age Requirement",
+    "content": "Most life insurance policies require the applicant to be at least 18 years old, though some child-specific plans allow coverage from birth or a few months old.",
+    "source_name": "PolicyBazaar",
+    "source_url": "https://www.policybazaar.com"
+  },
+  {
+    "id": 82,
+    "title": "Maximum Age Limits",
+    "content": "Life insurance policies often have an upper age limit for entry, usually ranging from 60 to 75 years depending on policy type.",
+    "source_name": "Investopedia",
+    "source_url": "https://www.investopedia.com"
+  },
+  {
+    "id": 83,
+    "title": "Health and Medical Assessment",
+    "content": "Applicants may need to provide medical history, undergo a health questionnaire, or complete medical tests, especially for higher coverage amounts.",
+    "source_name": "NerdWallet",
+    "source_url": "https://www.nerdwallet.com"
+  },
+  {
+    "id": 84,
+    "title": "Income Requirements",
+    "content": "Some insurers evaluate income to ensure premiums are affordable relative to the applicant’s earnings.",
+    "source_name": "Forbes Advisor",
+    "source_url": "https://www.forbes.com"
+  },
+  {
+    "id": 85,
+    "title": "Residency Criteria",
+    "content": "Many policies require applicants to be residents or citizens of the country in which the policy is issued.",
+    "source_name": "Investopedia",
+    "source_url": "https://www.investopedia.com"
+  },
+  {
+    "id": 86,
+    "title": "Policy-Specific Eligibility",
+    "content": "Different policies have specific criteria, for example, term life may allow higher entry ages than whole life, and child plans have age-specific rules.",
+    "source_name": "PolicyBazaar",
+    "source_url": "https://www.policybazaar.com"
+  },
+  {
+    "id": 87,
+    "title": "Medical Conditions Consideration",
+    "content": "Pre-existing medical conditions may affect eligibility, coverage limits, or premiums.",
+    "source_name": "NerdWallet",
+    "source_url": "https://www.nerdwallet.com"
+  },
+  {
+    "id": 88,
+    "title": "Lifestyle and Occupational Risks",
+    "content": "High-risk jobs, extreme sports, or hazardous hobbies may affect eligibility or require riders.",
+    "source_name": "Investopedia",
+    "source_url": "https://www.investopedia.com"
+  },
+  {
+    "id": 89,
+    "title": "Financial Underwriting Rules",
+    "content": "Insurers may verify financial status to prevent over-insurance or fraudulent intent.",
+    "source_name": "Forbes Advisor",
+    "source_url": "https://www.forbes.com"
+  },
+  {
+    "id": 90,
+    "title": "Policy Amount Limits",
+    "content": "Maximum coverage limits vary by age, health, and policy type; exceeding them may require additional underwriting.",
+    "source_name": "PolicyBazaar",
+    "source_url": "https://www.policybazaar.com"
+  },
+  {
+    "id": 91,
+    "title": "Occupation Categories",
+    "content": "Eligibility may be affected by the applicant’s occupation category, especially if it involves high-risk activities.",
+    "source_name": "Investopedia",
+    "source_url": "https://www.investopedia.com"
+  },
+  {
+    "id": 92,
+    "title": "Non-Smoker vs Smoker Criteria",
+    "content": "Smoking status influences eligibility, premiums, and coverage options; non-smokers often receive better rates.",
+    "source_name": "NerdWallet",
+    "source_url": "https://www.nerdwallet.com"
+  },
+  {
+    "id": 93,
+    "title": "Medical Exam Waiver Options",
+    "content": "Some term and simplified issue policies allow applicants to skip medical exams under certain coverage thresholds.",
+    "source_name": "PolicyBazaar",
+    "source_url": "https://www.policybazaar.com"
+  },
+  {
+    "id": 94,
+    "title": "Geographical Restrictions",
+    "content": "Applicants living in certain high-risk regions may face limitations or higher premiums.",
+    "source_name": "Investopedia",
+    "source_url": "https://www.investopedia.com"
+  },
+  {
+    "id": 95,
+    "title": "Age at Policy Maturity",
+    "content": "Policies may restrict maximum maturity age; permanent policies usually have higher allowable ages than term plans.",
+    "source_name": "NerdWallet",
+    "source_url": "https://www.nerdwallet.com"
+  },
+  {
+    "id": 96,
+    "title": "Eligibility for Riders",
+    "content": "Riders like critical illness or accidental death may have additional eligibility criteria apart from the base policy.",
+    "source_name": "Forbes Advisor",
+    "source_url": "https://www.forbes.com"
+  },
+  {
+    "id": 97,
+    "title": "Policy Conversion Rules",
+    "content": "Policies with conversion options may have age or term limits on when term policies can convert to permanent coverage.",
+    "source_name": "Investopedia",
+    "source_url": "https://www.investopedia.com"
+  },
+  {
+    "id": 98,
+    "title": "Child Coverage Eligibility",
+    "content": "Child insurance policies may have minimum and maximum ages for entry, typically from birth to around 18 years.",
+    "source_name": "PolicyBazaar",
+    "source_url": "https://www.policybazaar.com"
+  },
+  {
+    "id": 99,
+    "title": "Joint Policy Eligibility",
+    "content": "Joint life insurance eligibility depends on the age and health of both individuals; some policies require both to meet minimum criteria.",
+    "source_name": "NerdWallet",
+    "source_url": "https://www.nerdwallet.com"
+  },
+  {
+    "id": 100,
+    "title": "Eligibility for Seniors",
+    "content": "Certain simplified or guaranteed issue policies allow seniors to obtain limited coverage without medical exams.",
+    "source_name": "Forbes Advisor",
+    "source_url": "https://www.forbes.com"
+  },
+  {
+    "id": 101,
+    "title": "Policy Duration Constraints",
+    "content": "Some policies restrict eligibility based on intended coverage duration or remaining life expectancy.",
+    "source_name": "Investopedia",
+    "source_url": "https://www.investopedia.com"
+  },
+  {
+    "id": 102,
+    "title": "Maximum Coverage for Substandard Risks",
+    "content": "Applicants with higher risk factors may have lower maximum coverage limits or require rated policies.",
+    "source_name": "PolicyBazaar",
+    "source_url": "https://www.policybazaar.com"
+  },
+  {
+    "id": 103,
+    "title": "Eligibility for Group Policies",
+    "content": "Group policies may have broader eligibility, sometimes covering employees without individual medical exams.",
+    "source_name": "Insurance Information Institute",
+    "source_url": "https://www.iii.org"
+  },
+  {
+    "id": 104,
+    "title": "Smoking and Lifestyle Rider Impact",
+    "content": "Certain lifestyle riders may require non-smoker status or limit coverage for high-risk behaviors.",
+    "source_name": "NerdWallet",
+    "source_url": "https://www.nerdwallet.com"
+  },
+  {
+    "id": 105,
+    "title": "Financial Justification Requirement",
+    "content": "For high coverage amounts, insurers may require proof of income or net worth to justify the requested policy value.",
+    "source_name": "Forbes Advisor",
+    "source_url": "https://www.forbes.com"
+  },
+  {
+    "id": 106,
+    "title": "Policy Ownership Eligibility",
+    "content": "Applicants must be legally capable of owning a policy, generally requiring sound legal capacity and not being minors without guardian consent.",
+    "source_name": "PolicyBazaar",
+    "source_url": "https://www.policybazaar.com"
+  },
+  {
+    "id": 107,
+    "title": "Residency and Citizenship Proof",
+    "content": "Applicants typically need to provide proof of residency or citizenship to comply with insurer and local regulatory requirements.",
+    "source_name": "Investopedia",
+    "source_url": "https://www.investopedia.com"
+  },
+  {
+    "id": 108,
+    "title": "Travel or Expat Restrictions",
+    "content": "Some policies restrict coverage for residents temporarily living abroad or frequently traveling to high-risk countries.",
+    "source_name": "NerdWallet",
+    "source_url": "https://www.nerdwallet.com"
+  },
+  {
+    "id": 109,
+    "title": "Eligibility for Multi-Life Policies",
+    "content": "Certain multi-life or family policies require all listed lives to meet minimum age, health, and residency conditions.",
+    "source_name": "Forbes Advisor",
+    "source_url": "https://www.forbes.com"
+  },
+  {
+    "id": 110,
+    "title": "Medical Records Submission",
+    "content": "Applicants may need to provide prior medical records or undergo tests if they exceed standard coverage thresholds.",
+    "source_name": "PolicyBazaar",
+    "source_url": "https://www.policybazaar.com"
+  },
+  {
+    "id": 111,
+    "title": "Eligibility of Spouses or Partners",
+    "content": "Joint life insurance often requires both partners to meet policy-specific age, health, and residency requirements.",
+    "source_name": "NerdWallet",
+    "source_url": "https://www.nerdwallet.com"
+  },
+  {
+    "id": 112,
+    "title": "Policy-Specific Health Questions",
+    "content": "Certain policies have additional health questionnaires for specific riders like critical illness or disability benefits.",
+    "source_name": "Investopedia",
+    "source_url": "https://www.investopedia.com"
+  },
+  {
+    "id": 113,
+    "title": "Eligibility for Senior Rider Benefits",
+    "content": "Some plans provide special riders for seniors, but eligibility may depend on age and health status.",
+    "source_name": "Forbes Advisor",
+    "source_url": "https://www.forbes.com"
+  },
+  {
+    "id": 114,
+    "title": "Child Riders Eligibility",
+    "content": "Child riders may cover children of insured adults with minimum and maximum age limits, usually birth to 25 years.",
+    "source_name": "PolicyBazaar",
+    "source_url": "https://www.policybazaar.com"
+  },
+  {
+    "id": 115,
+    "title": "Eligibility for Critical Illness Riders",
+    "content": "Applicants must meet age and health requirements for critical illness riders, often stricter than base policy eligibility.",
+    "source_name": "ICICI Prudential",
+    "source_url": "https://www.iciciprulife.com"
+  },
+  {
+    "id": 116,
+    "title": "Occupational Limitations",
+    "content": "Certain high-risk occupations may face coverage limitations or require additional underwriting.",
+    "source_name": "Investopedia",
+    "source_url": "https://www.investopedia.com"
+  },
+  {
+    "id": 117,
+    "title": "Lifestyle Risk Assessment",
+    "content": "Smoking, alcohol use, and hazardous hobbies can influence eligibility and premium rates.",
+    "source_name": "NerdWallet",
+    "source_url": "https://www.nerdwallet.com"
+  },
+  {
+    "id": 118,
+    "title": "Residency Duration Considerations",
+    "content": "Policies may require applicants to have lived in the country for a minimum period to be eligible.",
+    "source_name": "PolicyBazaar",
+    "source_url": "https://www.policybazaar.com"
+  },
+  {
+    "id": 119,
+    "title": "Policy Term Eligibility",
+    "content": "Eligibility may depend on the intended policy term relative to the applicant’s age, ensuring coverage remains valid through the term.",
+    "source_name": "Forbes Advisor",
+    "source_url": "https://www.forbes.com"
+  },
+  {
+    "id": 120,
+    "title": "Eligibility for Flexible Premium Options",
+    "content": "Applicants may need to meet certain income or financial stability requirements to choose flexible premium payment plans.",
+    "source_name": "ET Money",
+    "source_url": "https://www.etmoney.com"
+  }
+]

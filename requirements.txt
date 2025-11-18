@@ -1,0 +1,6 @@
+langchain
+langchain-community
+numpy
+python-dotenv
+tqdm
+groq
