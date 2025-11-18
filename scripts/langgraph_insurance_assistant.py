@@ -5,6 +5,7 @@ from collections import deque
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from langchain_groq import ChatGroq
 import time
+from cache_utils import load_cache, save_cache, get_cached_answer, update_cache
 
 # Load environment variables
 load_dotenv()
@@ -37,8 +38,7 @@ for cat in ["policy_types", "benefits", "eligibility", "claims"]:
         print(f"Error loading category data '{cat}': {e}")
         category_data[cat] = []
 
-# Conversation Cache and History
-query_cache = {}
+# Conversation History
 history = deque(maxlen=MAX_HISTORY)
 
 # LangChain Groq Models (Base + Fallback)
@@ -67,14 +67,15 @@ def classify_categories(user_query):
     try:
         context_text = "\n".join([f"{d['category_name']}: {d['description']}" for d in classification_data])
         system_msg = ("system", f"""
-You are a Life Insurance Assistant Classifier.
-Rules:
-1. If the user asks about life insurance, return a list of relevant categories from: policy_types, benefits, eligibility, claims.
-2. If the query is a greeting or basic small talk, include 'greeting' in the list.
-3. If the query is completely unrelated, include 'unrelated' in the list.
-Always return output as a Python list of categories.
-""")
+                        You are a Life Insurance Assistant Classifier.
+                        Rules:
+                        1. If the user asks about life insurance, return a list of relevant categories from: policy_types, benefits, eligibility, claims.
+                        2. If the query is a greeting or basic small talk, include 'greeting' in the list.
+                        3. If the query is completely unrelated, include 'unrelated' in the list.
+                        Always return output as a Python list of categories.
+                        """)
         user_msg = ("user", f"User Query: {user_query}\nContext: {context_text}")
+        
         response = query_llm([system_msg, user_msg]).strip()
 
         import ast
@@ -137,10 +138,13 @@ def aggregate_answers(user_query, answers):
     except Exception as e:
         print(f"Error in aggregation agent: {e}")
         return "Sorry, unable to combine category answers at this time."
+        
+query_cache = load_cache()
+MAX_CACHE_SIZE = 20
 
 # CLI Chat Loop
 def chat():
-    print("Welcome to Life Insurance Support Assistant!")
+    print("\nWelcome to Life Insurance Support Assistant!")
     print("Type 'exit' to quit.\n")
 
     while True:
@@ -150,22 +154,30 @@ def chat():
                 print("Assistant: Goodbye!")
                 break
 
-            if user_query in query_cache:
-                response = query_cache[user_query]
-                print(f"[Debug] Selected categories (from cache): {query_cache.get(user_query+'_categories')}")
+            cached_answer = get_cached_answer(query_cache, user_query)
+
+            if cached_answer:
+                response = cached_answer
+
             else:
                 # Classify
                 categories = classify_categories(user_query)
                 query_cache[user_query+'_categories'] = categories
+                save_cache(query_cache)
                 print(f"[Debug] Selected categories: {categories}")
 
                 answers = {}
-                # Run agents
+                # Run agents in parallel using ThreadPoolExecutor
                 with ThreadPoolExecutor() as executor:
+                    # Submit each agent function as a separate task, that returns a Future object
                     futures = {executor.submit(category_agents_map[cat], user_query, history): cat for cat in categories}
+                    # futures: maps each Future object to its category name
+
+                    # as_completed yields each Future as soon as it finishes
                     for future in as_completed(futures):
-                        cat = futures[future]
+                        cat = futures[future] # Get the category name for this Future
                         try:
+                            # Get the result/agent's answer from the Future
                             answers[cat] = future.result()
                         except Exception as e:
                             answers[cat] = f"Error in {cat} agent: {e}"
@@ -178,7 +190,8 @@ def chat():
                 else:
                     response = list(answers.values())[0]
 
-                query_cache[user_query] = response
+                update_cache(query_cache, user_query, response)
+                save_cache(query_cache)
 
             print(f"Assistant: {response}")
             history.append((user_query, response))
