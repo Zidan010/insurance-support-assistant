@@ -106,7 +106,7 @@ def category_agent_template(category, user_query, history_context):
     content_text = "\n".join([f"{d['title']}: {d['content']}" for d in data])
     history_text = "\n".join([f"User: {h[0]}\nAssistant: {h[1]}" for h in history_context])
     system_msg = ("system", f"You answer strictly using {category} data.")
-    user_msg = ("user", f"Content:\n{content_text}\n\nHistory:\n{history_text}\nQuery:\n{query}")
+    user_msg = ("user", f"Content:\n{content_text}\n\nHistory:\n{history_text}\nQuery:\n{user_query}")
     return query_llm([system_msg, user_msg])
 
 policy_types_agent = lambda u, h: category_agent_template("policy_types", u, h)

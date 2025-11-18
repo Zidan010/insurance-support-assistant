@@ -157,6 +157,7 @@ def chat():
             cached_answer = get_cached_answer(query_cache, user_query)
 
             if cached_answer:
+                print("[Debug] Categories (cached):", query_cache[user_query + "_categories"])
                 response = cached_answer
 
             else:
