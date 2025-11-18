@@ -8,10 +8,21 @@
         "policy_types",
         "eligibility"
     ],
-    "What are the benefits of a term life policy, and how do I claim it?_categories": [
+    "hi_categories": [
+        "greeting"
+    ],
+    "hi": "Hello. It's nice to meet you. Are you looking for information about life insurance or just wanting to chat about your current coverage? I'm here to help with any questions you may have.",
+    "cn you tell me a joke?_categories": [
+        "unrelated"
+    ],
+    "cn you tell me a joke?": "Sorry, I can only answer questions about life insurance policies, benefits, eligibility, and claims.",
+    "how does a whole life policy works, say shortly_categories": [
+        "policy_types"
+    ],
+    "how does a whole life policy works, say shortly": "Whole life insurance offers lifelong coverage and includes a savings-like cash value component that grows over time; premiums are higher but part of the policy builds value you can borrow against.",
+    "how do policy types affect claim settlement?_categories": [
         "policy_types",
-        "benefits",
         "claims"
     ],
-    "What are the benefits of a term life policy, and how do I claim it?": "A term life insurance policy provides coverage for a fixed period and offers several benefits, including lower premiums and no cash value accumulation. If the insured dies within the term, the policy pays a lump-sum death benefit to the beneficiary. To claim a term life policy, the beneficiary should contact the insurance company and provide a death certificate, after which the company will guide them through the claims process. The payout is typically made in a lump sum, although some policies may offer alternative settlement options, such as annuity-style payments. It's crucial to review the policy documents, understand the terms and conditions, and ensure the policy is active with up-to-date premiums to avoid any issues during the claims process."
+    "how do policy types affect claim settlement?": "The type of life insurance policy can significantly impact the claim settlement process. Different policy types, such as term life, whole life, endowment, and unit-linked insurance plans, have distinct features that influence how claims are settled. For instance, term life insurance typically pays a lump-sum death benefit if the insured dies within the term, while whole life insurance includes a cash value component that can be used for partial withdrawals or loans, affecting the claim payout.\n\nThe claim settlement process can also vary depending on the specific policy features, such as the presence of riders like accidental death or critical illness, which may require additional documentation and have specific claim settlement rules. Furthermore, policies like return of premium term policy, money-back policies, and annuity-like life plans have unique claim settlement processes.\n\nIn general, the policy type can affect the claim settlement amount, timing, and mode of payment. For example, whole life policies may allow for partial withdrawals or loans, which can reduce the claim payout, while term life policies typically pay out the full death benefit upon claim. Group life insurance policies, on the other hand, usually have a collective claim settlement process based on the employer's submissions.\n\nAdditionally, the claim settlement timeline, required documents, and presence of policy loans, exclusions, or specific conditions in the policy terms can also vary depending on the policy type. It's essential to understand the specific policy features and terms to ensure a smooth claim settlement process. Overall, the type of policy and its features play a crucial role in determining how claims are settled, and it's crucial to carefully review the policy terms and conditions to ensure that you understand the claim settlement process."
 }
