@@ -3,26 +3,5 @@
         "policy_types",
         "claims"
     ],
-    "Can I get a child plan, and what documents do I need to claim?": "You can get a child plan, which is designed to build savings for a child's future needs, such as education, while often providing life cover for the parent or policyholder. To claim under this plan, you will typically need to provide documents such as the policy document, death certificate (if applicable), and proof of the child's age and identity. Additionally, you may need to submit a claim form, medical reports, or accident reports, depending on the circumstances of the claim.\n\nTo initiate the claim process, it's essential to review your policy documents to understand the specific requirements for claiming under your child plan. You will need to submit the required documents, which may include the original policy, death certificate, and ID proof of the beneficiary. The claims process typically takes 15 to 30 days, but complex claims may take longer. To avoid delays or rejections, ensure you have all necessary documents ready before submitting your claim.",
-    "Can I add a child plan to my policy?_categories": [
-        "policy_types",
-        "eligibility"
-    ],
-    "hi_categories": [
-        "greeting"
-    ],
-    "hi": "Hello. It's nice to meet you. Are you looking for information about life insurance or just wanting to chat about your current coverage? I'm here to help with any questions you may have.",
-    "cn you tell me a joke?_categories": [
-        "unrelated"
-    ],
-    "cn you tell me a joke?": "Sorry, I can only answer questions about life insurance policies, benefits, eligibility, and claims.",
-    "how does a whole life policy works, say shortly_categories": [
-        "policy_types"
-    ],
-    "how does a whole life policy works, say shortly": "Whole life insurance offers lifelong coverage and includes a savings-like cash value component that grows over time; premiums are higher but part of the policy builds value you can borrow against.",
-    "how do policy types affect claim settlement?_categories": [
-        "policy_types",
-        "claims"
-    ],
-    "how do policy types affect claim settlement?": "The type of life insurance policy can significantly impact the claim settlement process. Different policy types, such as term life, whole life, endowment, and unit-linked insurance plans, have distinct features that influence how claims are settled. For instance, term life insurance typically pays a lump-sum death benefit if the insured dies within the term, while whole life insurance includes a cash value component that can be used for partial withdrawals or loans, affecting the claim payout.\n\nThe claim settlement process can also vary depending on the specific policy features, such as the presence of riders like accidental death or critical illness, which may require additional documentation and have specific claim settlement rules. Furthermore, policies like return of premium term policy, money-back policies, and annuity-like life plans have unique claim settlement processes.\n\nIn general, the policy type can affect the claim settlement amount, timing, and mode of payment. For example, whole life policies may allow for partial withdrawals or loans, which can reduce the claim payout, while term life policies typically pay out the full death benefit upon claim. Group life insurance policies, on the other hand, usually have a collective claim settlement process based on the employer's submissions.\n\nAdditionally, the claim settlement timeline, required documents, and presence of policy loans, exclusions, or specific conditions in the policy terms can also vary depending on the policy type. It's essential to understand the specific policy features and terms to ensure a smooth claim settlement process. Overall, the type of policy and its features play a crucial role in determining how claims are settled, and it's crucial to carefully review the policy terms and conditions to ensure that you understand the claim settlement process."
+    "Can I get a child plan, and what documents do I need to claim?": "You can get a child plan, which is designed to build savings for a child's future needs, such as education, while often providing life cover for the parent or policyholder. To claim under a child plan, you will typically need to provide several documents, including the policy document, proof of the child's age and identity, and proof of the policyholder's death or other claim-triggering event. Additionally, you may need to submit a claim form, the original policy, death certificate, and ID proof of the beneficiary. \n\nIn some cases, medical reports or accident reports may also be required, depending on the circumstances of the claim. It's essential to review your policy documents to understand the specific requirements for claiming under your child plan, as these may vary by insurer and policy terms. Once you have all the necessary documents, you can initiate the claim process, which is typically processed within 15 to 30 days, although complex claims may take longer. To avoid delays or rejections, ensure you have all the necessary documents ready before submitting your claim."
 }
